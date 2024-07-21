@@ -1,7 +1,6 @@
 const obj ={
     id:1,
     name:'Rohit Sharma',
-  
 }
 
 const obj2={
