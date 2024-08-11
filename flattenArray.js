@@ -17,3 +17,10 @@ function flattenArray(arr, flattendArr) {
 
 console.log(flattenArray(arr, flattendArr))
 console.log(flattenArray([1,2,3,{test:1},[10,40]], []))
+
+// [
+//     1,  2,  3, 10,
+//     20, 30, 4, {}
+// ]
+
+// [ 1, 2, 3, { test: 1 }, 10, 40 ]
